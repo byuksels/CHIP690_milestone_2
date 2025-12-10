@@ -16,7 +16,7 @@ https://data.chhs.ca.gov/dataset/596b5eed-31de-4fd8-a645-249f3f9b19c4/resource/5
 ## Objective:
 This milestone project involved using Python to analyze and visualize data in support of a defined research question. The deliverable was a Jupyter Notebook that demonstrated data acquisition and cleaning, analytical methods, and data visualization. 
 
-## Analysis and Visualization
+## Analysis and Visualization:
 Using Python libraries such as pandas and matplotlib, data was explored through:
 * Bar Chart (to visualize the occurence of top 5 chemicals) 
 * Pie Chart (to visualize the top 5 chemical usage in product categories and companies)
